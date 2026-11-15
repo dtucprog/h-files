@@ -1,0 +1,3 @@
+102 M3-nuts 39
+104 Resistor-1K 1482
+301 Capacitor-1μ 40
